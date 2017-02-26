@@ -1,9 +1,5 @@
 class Book
 # write your code here
-    def initialize
-        @title = ""
-    end
-
     def title
         @title
     end
